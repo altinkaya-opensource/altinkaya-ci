@@ -1,4 +1,4 @@
-# Container image to run OCA CI tests
+# Container image to run Altinkaya CI tests
 
 ⚠️ These images are meant for running CI tests of the Odoo Community
 Association. They are *not* intended for any other purpose, and in particular
